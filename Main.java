@@ -146,7 +146,8 @@ public static void sdvigArray (int[] array3, int i) {
         }
         while (i != 0);
     }
-
+;
+    
 }
 
 }
